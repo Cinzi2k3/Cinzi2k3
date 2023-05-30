@@ -1,0 +1,9 @@
+D:\DO AN1\DA1\DAL\bin\Debug\DAL.dll
+D:\DO AN1\DA1\DAL\bin\Debug\DAL.pdb
+D:\DO AN1\DA1\DAL\bin\Debug\DTO.dll
+D:\DO AN1\DA1\DAL\bin\Debug\DTO.pdb
+D:\DO AN1\DA1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DO AN1\DA1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DO AN1\DA1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DO AN1\DA1\DAL\obj\Debug\DAL.dll
+D:\DO AN1\DA1\DAL\obj\Debug\DAL.pdb
